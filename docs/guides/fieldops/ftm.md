@@ -5,7 +5,7 @@ banner: /images/banners/FTM.webp
 title: "The Forked Tower: Magic (Extreme)"
 description: "Materia Raiding strategy guide for the Forked Tower: Magic (Extreme) raid in The Occult Crescent: North Horn. Includes raid plans, boss strategies, and entry requirements."
 expansion: Dawntrail
-image: ftm-necrophobe-px.png
+image: ftm-index.webp
 pixelated: true
 authors: [Pod, Lynn, CA, MoG]
 difficulty: Field Ops
